@@ -9,6 +9,8 @@ add_executable(main
     md5_util.cpp
     DBConnection.cpp
     Logger.cpp
+    DBConnectionPool.cpp
+    file_utils.cpp
 )
 
 
