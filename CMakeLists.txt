@@ -11,6 +11,7 @@ add_executable(main
     Logger.cpp
     DBConnectionPool.cpp
     file_utils.cpp
+    DBManager.cpp
 )
 
 
