@@ -79,3 +79,7 @@ int main()
         Logger::getInstance().log("insert ok");
     }
 }
+
+
+
+
